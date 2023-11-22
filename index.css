@@ -14,7 +14,7 @@ min-height: 100vh;
 }
 .pw-container{
 width: 400px;
-background-color: rgb(69, 17, 118);
+background-color: rgb(64, 63, 65);
 box-shadow: 0 4px 10px rgba(0,0,0,0.6);
 }
 .pw-header{
@@ -23,7 +23,7 @@ padding: 1rem;
 .pw{
 width: 100%;
 height: 70px;
-background-color: rebeccapurple;
+background-color: rgb(13, 13, 14);
 display: flex;
 align-items: center;
 position: relative;
@@ -61,8 +61,8 @@ margin: 0.75rem 0;
 }
 .generate{
 display: block;
-background-color: #ecb602;
-color: rebeccapurple;
+background-color: #161615;
+color: rgb(241, 239, 243);
 font-weight: bold;
 padding: 1rem;
 font-size: 1.5rem;
